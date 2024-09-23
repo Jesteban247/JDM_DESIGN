@@ -1,1 +1,7 @@
 streamlit
+requests
+Pillow
+torch
+transformers
+google-generativeai
+diffusers
